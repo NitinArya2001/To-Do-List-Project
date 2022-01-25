@@ -1,5 +1,4 @@
 # To-Do-List-Project
-https://github.com/nitinarya2001/To-Do-List-Project/issues/1
 
 
 ![150653439-c2c2d01e-340f-4bf4-8fa2-932f38fed679](https://user-images.githubusercontent.com/85936367/150983763-2aa506bc-5e47-4d5f-a702-1dbd19814a48.png)
